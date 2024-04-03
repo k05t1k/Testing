@@ -1,0 +1,31 @@
+﻿<Window x:Class="TestCreator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestCreator" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="350">
+    <Grid>
+        <Grid x:Name="Main" Margin="20,15,20,27">
+            <Button
+                Click="StartButton"
+                Content="Пройти тест"
+                IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                Style="{StaticResource MaterialDesignPaperDarkButton}" Margin="10,89,10,146"
+            />
+            <Button
+                Click="CreateButton"
+                Content="Создать тест"
+                IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource AncestorType={x:Type Window}, Mode=FindAncestor}}"
+                Style="{StaticResource MaterialDesignPaperDarkButton}" Margin="10,211,10,149"
+            />
+            <TextBox x:Name="KeyTbx"
+                Height="25"
+                materialDesign:HintAssist.Hint="Введите секретный ключ:"
+                IsEnabled="{Binding IsChecked, ElementName=MaterialDesignOutlinedTextBoxEnabledComboBox}"
+                TextChanged="KeyTbx_TextChanged" Margin="10,323,10,39" 
+            />
+        </Grid>
+    </Grid>
+</Window>

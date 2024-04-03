@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cutec\\source\\repos\\TestCreator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|c:\\users\\cutec\\source\\repos\\testcreator\\testcreator\\creating.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|solutionrelative:testcreator\\creating.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|c:\\users\\cutec\\source\\repos\\testcreator\\testcreator\\testpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|solutionrelative:testcreator\\testpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|c:\\users\\cutec\\source\\repos\\testcreator\\testcreator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|solutionrelative:testcreator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|c:\\users\\cutec\\source\\repos\\testcreator\\testcreator\\testing.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|solutionrelative:testcreator\\testing.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|c:\\users\\cutec\\source\\repos\\testcreator\\testcreator\\resultspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|solutionrelative:testcreator\\resultspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cutec\\AppData\\Local\\Temp\\.vsdbgsrc\\c2a1159178750d27c6b6f6d5784146b67170e9797c9c034d74a402616aa59bd5\\Page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|c:\\users\\cutec\\source\\repos\\testcreator\\testcreator\\testpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|solutionrelative:testcreator\\testpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|c:\\users\\cutec\\source\\repos\\testcreator\\testcreator\\testing.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|solutionrelative:testcreator\\testing.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|c:\\users\\cutec\\source\\repos\\testcreator\\testcreator\\resultspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|solutionrelative:testcreator\\resultspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|c:\\users\\cutec\\source\\repos\\testcreator\\testcreator\\creating.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|solutionrelative:testcreator\\creating.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|c:\\users\\cutec\\source\\repos\\testcreator\\testcreator\\emptytestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|solutionrelative:testcreator\\emptytestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|c:\\users\\cutec\\source\\repos\\testcreator\\testcreator\\emptytestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|solutionrelative:testcreator\\emptytestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|c:\\users\\cutec\\source\\repos\\testcreator\\testcreator\\testcreator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|solutionrelative:testcreator\\testcreator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|c:\\users\\cutec\\source\\repos\\testcreator\\testcreator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|solutionrelative:testcreator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|c:\\users\\cutec\\source\\repos\\testcreator\\testcreator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B758AA4A-16AF-4FE3-B855-F61D63CC4D5D}|TestCreator\\TestCreator.csproj|solutionrelative:testcreator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TestCreator\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TestCreator\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:43:41.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\TestPage.xaml.cs",
+              "RelativeDocumentMoniker": "TestCreator\\TestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\TestPage.xaml.cs",
+              "RelativeToolTip": "TestCreator\\TestPage.xaml.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAQwCwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:39:59.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Testing.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\Testing.xaml.cs",
+              "RelativeDocumentMoniker": "TestCreator\\Testing.xaml.cs",
+              "ToolTip": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\Testing.xaml.cs",
+              "RelativeToolTip": "TestCreator\\Testing.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:12:37.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Creating.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\Creating.xaml.cs",
+              "RelativeDocumentMoniker": "TestCreator\\Creating.xaml.cs",
+              "ToolTip": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\Creating.xaml.cs",
+              "RelativeToolTip": "TestCreator\\Creating.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAlwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:58:39.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\ResultsPage.xaml.cs",
+              "RelativeDocumentMoniker": "TestCreator\\ResultsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\ResultsPage.xaml.cs",
+              "RelativeToolTip": "TestCreator\\ResultsPage.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T23:10:24.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\AppData\\Local\\Temp\\.vsdbgsrc\\c2a1159178750d27c6b6f6d5784146b67170e9797c9c034d74a402616aa59bd5\\Page.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c2a1159178750d27c6b6f6d5784146b67170e9797c9c034d74a402616aa59bd5\\Page.cs",
+              "ToolTip": "C:\\Users\\cutec\\AppData\\Local\\Temp\\.vsdbgsrc\\c2a1159178750d27c6b6f6d5784146b67170e9797c9c034d74a402616aa59bd5\\Page.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c2a1159178750d27c6b6f6d5784146b67170e9797c9c034d74a402616aa59bd5\\Page.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAIkCAAAAAAAAAAASwJYCAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T23:50:55.802Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Testing.xaml",
+              "DocumentMoniker": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\Testing.xaml",
+              "RelativeDocumentMoniker": "TestCreator\\Testing.xaml",
+              "ToolTip": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\Testing.xaml",
+              "RelativeToolTip": "TestCreator\\Testing.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T11:42:04.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\TestPage.xaml",
+              "RelativeDocumentMoniker": "TestCreator\\TestPage.xaml",
+              "ToolTip": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\TestPage.xaml",
+              "RelativeToolTip": "TestCreator\\TestPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T22:29:55.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResultsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\ResultsPage.xaml",
+              "RelativeDocumentMoniker": "TestCreator\\ResultsPage.xaml",
+              "ToolTip": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\ResultsPage.xaml",
+              "RelativeToolTip": "TestCreator\\ResultsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T23:08:41.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Creating.xaml",
+              "DocumentMoniker": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\Creating.xaml",
+              "RelativeDocumentMoniker": "TestCreator\\Creating.xaml",
+              "ToolTip": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\Creating.xaml",
+              "RelativeToolTip": "TestCreator\\Creating.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T11:53:49.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmptyTestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\EmptyTestPage.xaml",
+              "RelativeDocumentMoniker": "TestCreator\\EmptyTestPage.xaml",
+              "ToolTip": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\EmptyTestPage.xaml",
+              "RelativeToolTip": "TestCreator\\EmptyTestPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T22:27:20.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmptyTestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\EmptyTestPage.xaml.cs",
+              "RelativeDocumentMoniker": "TestCreator\\EmptyTestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\EmptyTestPage.xaml.cs",
+              "RelativeToolTip": "TestCreator\\EmptyTestPage.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:29:59.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestCreator.csproj",
+              "DocumentMoniker": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\TestCreator.csproj",
+              "RelativeDocumentMoniker": "TestCreator\\TestCreator.csproj",
+              "ToolTip": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\TestCreator.csproj",
+              "RelativeToolTip": "TestCreator\\TestCreator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T11:04:35.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TestCreator\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\MainWindow.xaml",
+              "RelativeToolTip": "TestCreator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T10:43:43.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\App.xaml",
+              "RelativeDocumentMoniker": "TestCreator\\App.xaml",
+              "ToolTip": "C:\\Users\\cutec\\source\\repos\\TestCreator\\TestCreator\\App.xaml",
+              "RelativeToolTip": "TestCreator\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T10:45:47.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

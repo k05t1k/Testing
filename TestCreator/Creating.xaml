@@ -1,0 +1,36 @@
+﻿<Window x:Class="TestCreator.Creating"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestCreator" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Creating" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="QuestionsDgr" AutoGenerateColumns="False" CanUserAddRows="True" RowEditEnding="QuestionsDgr_RowEditEnding" Margin="0,0,0,90">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name Question" Binding="{Binding NameQuestion}" IsReadOnly="False" />
+                <DataGridTextColumn Header="Descriptions" Binding="{Binding Descriptions}" IsReadOnly="False" />
+                <DataGridTextColumn Header="First Variation" Binding="{Binding FirstVariation}" IsReadOnly="False" />
+                <DataGridTextColumn Header="Second Variation" Binding="{Binding SecondVariation}" IsReadOnly="False" />
+                <DataGridTextColumn Header="Third Variation" Binding="{Binding ThirdVariation}" IsReadOnly="False" />
+                <DataGridTemplateColumn Header="Right Answer">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <ComboBox ItemsSource="{Binding RelativeSource={RelativeSource AncestorType=Window}, Path=RightAnswers}"
+                                      SelectedItem="{Binding RightAnswer}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Grid Margin="0,349,0,0">
+            <Button
+                Click="SaveButton"
+                Content="Сохранить тест"
+                IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource AncestorType={x:Type Window}, Mode=FindAncestor}}"
+                Style="{StaticResource MaterialDesignPaperDarkButton}" Margin="130,10,130,10"
+            />  
+        </Grid>
+    </Grid>
+</Window>
